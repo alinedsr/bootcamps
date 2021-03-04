@@ -1,2 +1,3 @@
-# bootcamps
-Projetos feitos nos Bootcamps
+Bootcamps
+
+Projetos realizados em Bootcamps a título de estudo, por Aline da Silveira Rosa
