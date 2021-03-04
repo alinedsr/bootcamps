@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	background-color: #EED6D3;
+}
+
+a {
+	text-decoration: line-through;
+}
+
+#title, .subtitle, .post_title {
+	color: #67595E;
+	text-shadow: 1px;
+}
+
+#title {
+	font-family: 'Akaya Telivigala', cursive;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.post_title {
+	font-size: 16px;
+	font-style: italic;
+}
+
+.header {
+}
+
+.section {
+	padding: 10px 50px 80px;
+	border: 3px solid black;
+	font-tra
+}
+
+footer {
+}
+
+ul {
+	list-style-type: none;
+}
